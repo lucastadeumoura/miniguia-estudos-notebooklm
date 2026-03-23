@@ -1,13 +1,14 @@
 Roadmap REAPER: Do Zero ao Avançado (Powered by NotebookLM)
+
 Este repositório contém um guia estruturado e um ecossistema de aprendizado para o software de produção de áudio REAPER. O diferencial deste projeto é a utilização do Google NotebookLM como ferramenta central para a síntese, organização e geração de insights a partir de documentações técnicas, manuais e tutoriais.
 
-🎯 Objetivo do Projeto
+🎯 Objetivo do Projeto:
 Demonstrar como o NotebookLM pode ser utilizado para transformar grandes volumes de dados técnicos (PDFs de manuais, transcrições de vídeos e fóruns) em um Roadmap de aprendizado dinâmico, acessível e otimizado para novos usuários da DAW REAPER.
 
 🚀 O que é o REAPER?
 O REAPER é uma estação de trabalho de áudio digital (DAW) completa para Windows, macOS e Linux, conhecida por sua eficiência, customização extrema e suporte a diversos plugins (VST, VST3, AU).
 
-🧠 Utilização do NotebookLM
+🧠 Utilização do NotebookLM:
 Neste projeto, o NotebookLM foi alimentado com fontes oficiais e comunidades de usuários para gerar:
 
 Guias de Estudo: Resumos estruturados por nível de dificuldade.
